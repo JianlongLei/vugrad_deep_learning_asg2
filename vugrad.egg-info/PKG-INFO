@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: vugrad
+Version: 0.1
+Summary: A minimal autodiff library
+Home-page: http://dlvu.github.io
+Author: Peter Bloem (Vrije Universiteit)
+Author-email: vugrad@peterbloem.nl
+License-File: LICENSE
+Requires-Dist: numpy

@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+tests/tests.py
+vugrad/__init__.py
+vugrad/core.py
+vugrad/functions.py
+vugrad/mnist.py
+vugrad/modules.py
+vugrad/ops.py
+vugrad.egg-info/PKG-INFO
+vugrad.egg-info/SOURCES.txt
+vugrad.egg-info/dependency_links.txt
+vugrad.egg-info/entry_points.txt
+vugrad.egg-info/not-zip-safe
+vugrad.egg-info/requires.txt
+vugrad.egg-info/top_level.txt
