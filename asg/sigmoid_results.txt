@@ -1,0 +1,631 @@
+Namespace(data='synth', batch_size=128, epochs=20, lr=0.0001)
+num instances: 55000 num features: 784
+
+## Starting training
+epoch 000
+       accuracy: 0.0904
+   running loss: 0.4036
+epoch 001
+       accuracy: 0.9496
+   running loss: 0.211
+epoch 002
+       accuracy: 0.9586
+   running loss: 0.1601
+epoch 003
+       accuracy: 0.963
+   running loss: 0.1276
+epoch 004
+       accuracy: 0.9646
+   running loss: 0.1035
+epoch 005
+       accuracy: 0.9678
+   running loss: 0.08556
+epoch 006
+       accuracy: 0.9684
+   running loss: 0.07111
+epoch 007
+       accuracy: 0.969
+   running loss: 0.06028
+epoch 008
+       accuracy: 0.9694
+   running loss: 0.0516
+epoch 009
+       accuracy: 0.9712
+   running loss: 0.04461
+epoch 010
+       accuracy: 0.9716
+   running loss: 0.03917
+epoch 011
+       accuracy: 0.9722
+   running loss: 0.03472
+epoch 012
+       accuracy: 0.972
+   running loss: 0.03116
+epoch 013
+       accuracy: 0.9716
+   running loss: 0.02816
+epoch 014
+       accuracy: 0.9728
+   running loss: 0.02568
+epoch 015
+       accuracy: 0.9728
+   running loss: 0.02354
+epoch 016
+       accuracy: 0.9734
+   running loss: 0.02173
+epoch 017
+       accuracy: 0.973
+   running loss: 0.02017
+epoch 018
+       accuracy: 0.9732
+   running loss: 0.01881
+epoch 019
+       accuracy: 0.9734
+   running loss: 0.0176
+num instances: 55000 num features: 784
+
+## Starting training
+epoch 000
+       accuracy: 0.1202
+   running loss: 0.4031
+epoch 001
+       accuracy: 0.95
+   running loss: 0.212
+epoch 002
+       accuracy: 0.9584
+   running loss: 0.1604
+epoch 003
+       accuracy: 0.9598
+   running loss: 0.1277
+epoch 004
+       accuracy: 0.963
+   running loss: 0.1034
+epoch 005
+       accuracy: 0.965
+   running loss: 0.08524
+epoch 006
+       accuracy: 0.9666
+   running loss: 0.07084
+epoch 007
+       accuracy: 0.9666
+   running loss: 0.05967
+epoch 008
+       accuracy: 0.9688
+   running loss: 0.05091
+epoch 009
+       accuracy: 0.9694
+   running loss: 0.04406
+epoch 010
+       accuracy: 0.971
+   running loss: 0.03862
+epoch 011
+       accuracy: 0.9708
+   running loss: 0.03421
+epoch 012
+       accuracy: 0.9712
+   running loss: 0.03067
+epoch 013
+       accuracy: 0.9714
+   running loss: 0.02768
+epoch 014
+       accuracy: 0.971
+   running loss: 0.02523
+epoch 015
+       accuracy: 0.971
+   running loss: 0.02316
+epoch 016
+       accuracy: 0.9714
+   running loss: 0.02139
+epoch 017
+       accuracy: 0.971
+   running loss: 0.01986
+epoch 018
+       accuracy: 0.9724
+   running loss: 0.01849
+epoch 019
+       accuracy: 0.9726
+   running loss: 0.0173
+num instances: 55000 num features: 784
+
+## Starting training
+epoch 000
+       accuracy: 0.1066
+   running loss: 0.4011
+epoch 001
+       accuracy: 0.9512
+   running loss: 0.2114
+epoch 002
+       accuracy: 0.9582
+   running loss: 0.16
+epoch 003
+       accuracy: 0.9624
+   running loss: 0.127
+epoch 004
+       accuracy: 0.966
+   running loss: 0.1031
+epoch 005
+       accuracy: 0.9648
+   running loss: 0.08529
+epoch 006
+       accuracy: 0.9672
+   running loss: 0.07093
+epoch 007
+       accuracy: 0.969
+   running loss: 0.05959
+epoch 008
+       accuracy: 0.9686
+   running loss: 0.05113
+epoch 009
+       accuracy: 0.969
+   running loss: 0.04416
+epoch 010
+       accuracy: 0.97
+   running loss: 0.03859
+epoch 011
+       accuracy: 0.9698
+   running loss: 0.03412
+epoch 012
+       accuracy: 0.97
+   running loss: 0.0306
+epoch 013
+       accuracy: 0.9702
+   running loss: 0.02763
+epoch 014
+       accuracy: 0.9708
+   running loss: 0.0252
+epoch 015
+       accuracy: 0.971
+   running loss: 0.02312
+epoch 016
+       accuracy: 0.971
+   running loss: 0.02135
+epoch 017
+       accuracy: 0.9714
+   running loss: 0.01981
+epoch 018
+       accuracy: 0.9718
+   running loss: 0.01848
+epoch 019
+       accuracy: 0.9718
+   running loss: 0.01729
+num instances: 55000 num features: 784
+
+## Starting training
+epoch 000
+       accuracy: 0.0934
+   running loss: 0.4005
+epoch 001
+       accuracy: 0.9498
+   running loss: 0.2107
+epoch 002
+       accuracy: 0.9578
+   running loss: 0.1599
+epoch 003
+       accuracy: 0.9622
+   running loss: 0.1269
+epoch 004
+       accuracy: 0.9638
+   running loss: 0.1034
+epoch 005
+       accuracy: 0.966
+   running loss: 0.08519
+epoch 006
+       accuracy: 0.9682
+   running loss: 0.07128
+epoch 007
+       accuracy: 0.9682
+   running loss: 0.06013
+epoch 008
+       accuracy: 0.9688
+   running loss: 0.05139
+epoch 009
+       accuracy: 0.9698
+   running loss: 0.0444
+epoch 010
+       accuracy: 0.9702
+   running loss: 0.0388
+epoch 011
+       accuracy: 0.9708
+   running loss: 0.03433
+epoch 012
+       accuracy: 0.9708
+   running loss: 0.03083
+epoch 013
+       accuracy: 0.9714
+   running loss: 0.02782
+epoch 014
+       accuracy: 0.9716
+   running loss: 0.02531
+epoch 015
+       accuracy: 0.9718
+   running loss: 0.02319
+epoch 016
+       accuracy: 0.9724
+   running loss: 0.02134
+epoch 017
+       accuracy: 0.972
+   running loss: 0.01979
+epoch 018
+       accuracy: 0.9722
+   running loss: 0.01843
+epoch 019
+       accuracy: 0.972
+   running loss: 0.01725
+num instances: 55000 num features: 784
+
+## Starting training
+epoch 000
+       accuracy: 0.1542
+   running loss: 0.3986
+epoch 001
+       accuracy: 0.9488
+   running loss: 0.2094
+epoch 002
+       accuracy: 0.9596
+   running loss: 0.1586
+epoch 003
+       accuracy: 0.9628
+   running loss: 0.1268
+epoch 004
+       accuracy: 0.9662
+   running loss: 0.1032
+epoch 005
+       accuracy: 0.9672
+   running loss: 0.08476
+epoch 006
+       accuracy: 0.969
+   running loss: 0.07054
+epoch 007
+       accuracy: 0.9696
+   running loss: 0.05938
+epoch 008
+       accuracy: 0.9704
+   running loss: 0.05069
+epoch 009
+       accuracy: 0.971
+   running loss: 0.04404
+epoch 010
+       accuracy: 0.9722
+   running loss: 0.03855
+epoch 011
+       accuracy: 0.9724
+   running loss: 0.03421
+epoch 012
+       accuracy: 0.9732
+   running loss: 0.03079
+epoch 013
+       accuracy: 0.9724
+   running loss: 0.02782
+epoch 014
+       accuracy: 0.973
+   running loss: 0.02537
+epoch 015
+       accuracy: 0.9736
+   running loss: 0.0233
+epoch 016
+       accuracy: 0.9736
+   running loss: 0.02152
+epoch 017
+       accuracy: 0.9738
+   running loss: 0.01999
+epoch 018
+       accuracy: 0.9738
+   running loss: 0.01866
+epoch 019
+       accuracy: 0.9734
+   running loss: 0.01747
+num instances: 55000 num features: 784
+
+## Starting training
+epoch 000
+       accuracy: 0.1528
+   running loss: 0.4056
+epoch 001
+       accuracy: 0.9482
+   running loss: 0.2123
+epoch 002
+       accuracy: 0.96
+   running loss: 0.1607
+epoch 003
+       accuracy: 0.9628
+   running loss: 0.1278
+epoch 004
+       accuracy: 0.9674
+   running loss: 0.104
+epoch 005
+       accuracy: 0.9672
+   running loss: 0.08554
+epoch 006
+       accuracy: 0.969
+   running loss: 0.07128
+epoch 007
+       accuracy: 0.9698
+   running loss: 0.05992
+epoch 008
+       accuracy: 0.9706
+   running loss: 0.05116
+epoch 009
+       accuracy: 0.9708
+   running loss: 0.04434
+epoch 010
+       accuracy: 0.9714
+   running loss: 0.0388
+epoch 011
+       accuracy: 0.972
+   running loss: 0.03438
+epoch 012
+       accuracy: 0.9724
+   running loss: 0.03084
+epoch 013
+       accuracy: 0.9726
+   running loss: 0.02788
+epoch 014
+       accuracy: 0.9726
+   running loss: 0.02546
+epoch 015
+       accuracy: 0.9728
+   running loss: 0.02338
+epoch 016
+       accuracy: 0.9734
+   running loss: 0.02159
+epoch 017
+       accuracy: 0.9738
+   running loss: 0.02002
+epoch 018
+       accuracy: 0.9736
+   running loss: 0.01865
+epoch 019
+       accuracy: 0.9734
+   running loss: 0.01746
+num instances: 55000 num features: 784
+
+## Starting training
+epoch 000
+       accuracy: 0.0604
+   running loss: 0.4057
+epoch 001
+       accuracy: 0.9476
+   running loss: 0.2114
+epoch 002
+       accuracy: 0.9572
+   running loss: 0.16
+epoch 003
+       accuracy: 0.962
+   running loss: 0.1264
+epoch 004
+       accuracy: 0.9638
+   running loss: 0.1025
+epoch 005
+       accuracy: 0.9654
+   running loss: 0.08428
+epoch 006
+       accuracy: 0.9684
+   running loss: 0.07045
+epoch 007
+       accuracy: 0.97
+   running loss: 0.05923
+epoch 008
+       accuracy: 0.9698
+   running loss: 0.05088
+epoch 009
+       accuracy: 0.971
+   running loss: 0.04404
+epoch 010
+       accuracy: 0.9712
+   running loss: 0.03867
+epoch 011
+       accuracy: 0.9726
+   running loss: 0.03432
+epoch 012
+       accuracy: 0.9724
+   running loss: 0.03077
+epoch 013
+       accuracy: 0.9724
+   running loss: 0.0278
+epoch 014
+       accuracy: 0.9728
+   running loss: 0.02531
+epoch 015
+       accuracy: 0.9724
+   running loss: 0.02323
+epoch 016
+       accuracy: 0.9726
+   running loss: 0.02143
+epoch 017
+       accuracy: 0.9726
+   running loss: 0.01988
+epoch 018
+       accuracy: 0.9724
+   running loss: 0.01853
+epoch 019
+       accuracy: 0.973
+   running loss: 0.01733
+num instances: 55000 num features: 784
+
+## Starting training
+epoch 000
+       accuracy: 0.0774
+   running loss: 0.4073
+epoch 001
+       accuracy: 0.9454
+   running loss: 0.2133
+epoch 002
+       accuracy: 0.958
+   running loss: 0.1621
+epoch 003
+       accuracy: 0.9612
+   running loss: 0.1285
+epoch 004
+       accuracy: 0.9648
+   running loss: 0.1043
+epoch 005
+       accuracy: 0.9652
+   running loss: 0.08592
+epoch 006
+       accuracy: 0.9684
+   running loss: 0.07152
+epoch 007
+       accuracy: 0.9688
+   running loss: 0.06041
+epoch 008
+       accuracy: 0.9692
+   running loss: 0.05166
+epoch 009
+       accuracy: 0.97
+   running loss: 0.04459
+epoch 010
+       accuracy: 0.971
+   running loss: 0.03904
+epoch 011
+       accuracy: 0.9708
+   running loss: 0.03455
+epoch 012
+       accuracy: 0.9718
+   running loss: 0.03091
+epoch 013
+       accuracy: 0.9718
+   running loss: 0.02795
+epoch 014
+       accuracy: 0.9718
+   running loss: 0.02547
+epoch 015
+       accuracy: 0.9722
+   running loss: 0.02335
+epoch 016
+       accuracy: 0.9724
+   running loss: 0.02152
+epoch 017
+       accuracy: 0.9728
+   running loss: 0.01997
+epoch 018
+       accuracy: 0.973
+   running loss: 0.01858
+epoch 019
+       accuracy: 0.9728
+   running loss: 0.01736
+num instances: 55000 num features: 784
+
+## Starting training
+epoch 000
+       accuracy: 0.116
+   running loss: 0.4089
+epoch 001
+       accuracy: 0.9492
+   running loss: 0.2119
+epoch 002
+       accuracy: 0.9572
+   running loss: 0.1599
+epoch 003
+       accuracy: 0.9612
+   running loss: 0.1268
+epoch 004
+       accuracy: 0.9654
+   running loss: 0.1025
+epoch 005
+       accuracy: 0.9672
+   running loss: 0.08456
+epoch 006
+       accuracy: 0.9682
+   running loss: 0.07018
+epoch 007
+       accuracy: 0.9696
+   running loss: 0.05925
+epoch 008
+       accuracy: 0.9708
+   running loss: 0.05066
+epoch 009
+       accuracy: 0.9704
+   running loss: 0.04383
+epoch 010
+       accuracy: 0.9714
+   running loss: 0.03843
+epoch 011
+       accuracy: 0.971
+   running loss: 0.03409
+epoch 012
+       accuracy: 0.9714
+   running loss: 0.03057
+epoch 013
+       accuracy: 0.9722
+   running loss: 0.02763
+epoch 014
+       accuracy: 0.9716
+   running loss: 0.02521
+epoch 015
+       accuracy: 0.972
+   running loss: 0.02316
+epoch 016
+       accuracy: 0.9726
+   running loss: 0.02139
+epoch 017
+       accuracy: 0.9726
+   running loss: 0.01987
+epoch 018
+       accuracy: 0.9734
+   running loss: 0.01852
+epoch 019
+       accuracy: 0.9736
+   running loss: 0.01734
+num instances: 55000 num features: 784
+
+## Starting training
+epoch 000
+       accuracy: 0.088
+   running loss: 0.4044
+epoch 001
+       accuracy: 0.9472
+   running loss: 0.212
+epoch 002
+       accuracy: 0.9572
+   running loss: 0.1612
+epoch 003
+       accuracy: 0.9622
+   running loss: 0.1275
+epoch 004
+       accuracy: 0.9646
+   running loss: 0.1037
+epoch 005
+       accuracy: 0.9656
+   running loss: 0.08553
+epoch 006
+       accuracy: 0.9674
+   running loss: 0.0712
+epoch 007
+       accuracy: 0.9684
+   running loss: 0.06009
+epoch 008
+       accuracy: 0.9694
+   running loss: 0.05128
+epoch 009
+       accuracy: 0.9694
+   running loss: 0.04437
+epoch 010
+       accuracy: 0.9706
+   running loss: 0.03893
+epoch 011
+       accuracy: 0.9714
+   running loss: 0.03444
+epoch 012
+       accuracy: 0.9714
+   running loss: 0.03088
+epoch 013
+       accuracy: 0.9718
+   running loss: 0.02796
+epoch 014
+       accuracy: 0.9718
+   running loss: 0.02549
+epoch 015
+       accuracy: 0.9716
+   running loss: 0.02341
+epoch 016
+       accuracy: 0.9714
+   running loss: 0.02161
+epoch 017
+       accuracy: 0.9716
+   running loss: 0.02004
+epoch 018
+       accuracy: 0.9722
+   running loss: 0.01868
+epoch 019
+       accuracy: 0.9722
+   running loss: 0.01749

@@ -16,7 +16,7 @@ import gc
 # Function to train a model
 def train_model(model, num_classes, xtrain, ytrain, xval, yval, args):
     num_instances, num_features = xtrain.shape
-    print("num instances:", num_instances, "num features:", num_features)
+    print("num instances:", num_instances, "num features:", num_features, "num classes:", num_classes)
     mlp = model(input_size=num_features, output_size=num_classes)
     loss_result = []
     acc_result = []
@@ -180,13 +180,5 @@ if __name__ == "__main__":
     draw_plot_two_datasets(s_accs, r_accs, "Sigmoid Accuracy", "ReLU Accuracy", "Accuracy", "Accuracy Comparison",
                            'lower right')
 
-    # Plot Losses
-    draw_plot_two_datasets(s_losses[1:], r_losses[1:], "Sigmoid Loss", "ReLU Loss", "Loss", "Loss Comparison",
-                           'upper right')
-
-    # Plot Accuracies
-    draw_plot_two_datasets(s_accs[1:], r_accs[1:], "Sigmoid Accuracy", "ReLU Accuracy", "Accuracy",
-                           "Accuracy Comparison",
-                           'lower right')
 
 
